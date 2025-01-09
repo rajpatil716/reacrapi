@@ -1,0 +1,27 @@
+
+    
+    .container {
+        padding:20px 350px 100px 350px !important;
+        
+      }
+
+      .navbar-nav {
+       margin-right: 100px;
+       
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+       
+       
+      }
+      .nav-item{
+        border: 1px solid;
+        margin: 4px;
+        border-radius: 6px;
+      }
+      .container-fluid{
+        background-color: rgb(70, 165, 70);
+      }
+      #navbarNav{
+        float: right;
+      }
+      
+    
